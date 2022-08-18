@@ -1,0 +1,5 @@
+/*
+ * Assigns a name to the build, which overrides the default behavior of naming the build after the directory it’s in.
+ * It’s recommended to set a fixed name as the folder might change if the project is shared - e.g. as root of a Git repository.
+ */
+rootProject.name = 'db-integration'
